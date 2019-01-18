@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\githubHelper\githubHelper\bin\Debug\githubHelper.exe.config
+C:\Users\Administrator\Desktop\githubHelper\githubHelper\bin\Debug\githubHelper.exe
+C:\Users\Administrator\Desktop\githubHelper\githubHelper\bin\Debug\githubHelper.pdb
+C:\Users\Administrator\Desktop\githubHelper\githubHelper\obj\Debug\githubHelper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\githubHelper\githubHelper\obj\Debug\githubHelper.MainForm.resources
+C:\Users\Administrator\Desktop\githubHelper\githubHelper\obj\Debug\githubHelper.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\githubHelper\githubHelper\obj\Debug\githubHelper.exe
+C:\Users\Administrator\Desktop\githubHelper\githubHelper\obj\Debug\githubHelper.pdb
