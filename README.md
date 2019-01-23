@@ -9,6 +9,7 @@ github自用助手
     <img  src="https://c1.staticflickr.com/5/4891/32909597848_f042487d54_b.jpg"  height="150" width="400" /
 </a>
 
+<br/>
 <a href="https://ko-fi.com/walogia " target="_blank">
-    <img  src="http://walogia.ucoz.club/img/coffee.png"  height="150" width="400" /
+    <img  src="http://walogia.ucoz.club/img/coffee.png"  height="150" width="300" /
 </a>
